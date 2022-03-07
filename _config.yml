@@ -11,14 +11,14 @@ title: thennarasu.com
 # Description of the Site
 description: personal portal
 # URL of Image of the Site
-site-image: https://github.com/thennarasug/thennarasug.github.io/blob/master/assets/images/sk_wallpaper.png?raw=true
+site-image: https://raw.githubusercontent.com/thennarasug/thennarasug.github.io/master/assets/images/sk_wallpaper.png
 # Keywords of the Site
 site-keywords: thennarasu, thennarasug, thennarasu gopalsamy, dino, sk, thennarasu.com
 # URL for the Image of custom Favicon
 favicon-url: 
 
 # URL of the Image of Custom Hero Image (i.e., the image in the background of the very first section of the Homepage)
-heroimage: https://github.com/thennarasug/thennarasug.github.io/blob/master/assets/images/pexels-luis-gomes-546819.jpg?raw=true
+heroimage: https://raw.githubusercontent.com/thennarasug/thennarasug.github.io/master/assets/images/pexels-luis-gomes-546819.jpg
 #https://images.pexels.com/photos/220444/pexels-photo-220444.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940
 
 # Social Media and Contact
@@ -39,7 +39,7 @@ disqus-shortname: testtesttestdisqus1234qwer
 # Name of the Author
 author-name: thennarasu
 # URL for the Image of the Author
-author-image: https://github.com/thennarasug/thennarasug.github.io/blob/master/assets/images/sk.png?raw=true
+author-image: https://raw.githubusercontent.com/thennarasug/thennarasug.github.io/master/assets/images/sk.png
 # 60 Words About the Author
 author-about: 
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
