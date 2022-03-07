@@ -15,11 +15,12 @@ site-image: https://raw.githubusercontent.com/thennarasug/thennarasug.github.io/
 # Keywords of the Site
 site-keywords: thennarasu, thennarasug, thennarasu gopalsamy, dino, sk, thennarasu.com
 # URL for the Image of custom Favicon
-favicon-url: 
+favicon-url: https://raw.githubusercontent.com/thennarasug/thennarasug.github.io/master/assets/images/sk_wallpaper.ico
 
 # URL of the Image of Custom Hero Image (i.e., the image in the background of the very first section of the Homepage)
-heroimage: https://raw.githubusercontent.com/thennarasug/thennarasug.github.io/master/assets/images/pexels-luis-gomes-546819.jpg
+heroimage: https://images.pexels.com/photos/546819/pexels-photo-546819.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260
 #https://images.pexels.com/photos/220444/pexels-photo-220444.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940
+#https://raw.githubusercontent.com/thennarasug/thennarasug.github.io/master/assets/images/pexels-luis-gomes-546819.jpg
 
 # Social Media and Contact
 # If you don't want to use any icon, you can leave them blank.
