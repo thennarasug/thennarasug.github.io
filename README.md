@@ -23,12 +23,18 @@
 ### System Requirements
 * [Ruby](https://www.ruby-lang.org/en/)
 * [Jekyll](https://jekyllrb.com/)
-> You can read **What is Jekyll** [**here**](https://thedevslot.github.io/WhatATheme/blog/what-is-jekyll-how-to-use-it)
+
 ### Up and Running
-* Fork the [Repository](https://github.com/thedevslot/WhatATheme/)
+* Fork the [Repository](https://github.com/thennarasug.github.io/)
 * Clone or download the repository into directory of your choice: `git clone https://github.com/thedevslot/WhatATheme.git`
-* Inside the directory run `bundle install`
-* Host WhatATheme locally by running `bundle exec jekyll s`
+* Inside the directory run `C:\Ruby31-x64\bin\bundle.bat install`
+* Host WhatATheme locally by running `C:\Ruby31-x64\bin\bundle.bat exec jekyll s`
+* Add webrick to dependency: `C:\Ruby31-x64\bin\bundle.bat add webrick` (do if you get any webrick error on previous step)
+* try this again `C:\Ruby31-x64\bin\bundle.bat exec jekyll s`
+    Extra :
+    In addition, I tossed around some things, which should not have much to do with the solution of the problem
+    if webrick does not exist, I can use gem installation: gem install webrick
+    In addition, I also installed GitHub pages: gem install GitHub pages 
 
 > You can read **How to Install and use WhatATheme?** [**here**](https://thedevslot.github.io/WhatATheme/blog/how-to-install-whatatheme)
 
