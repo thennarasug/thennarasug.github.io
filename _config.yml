@@ -11,14 +11,14 @@ title: thennarasu.com
 # Description of the Site
 description: personal portal
 # URL of Image of the Site
-site-image: /WhatATheme/assets/images/sk_wallpaper.png
+site-image: /thennarasug.github.io/assets/images/sk_wallpaper.png
 # Keywords of the Site
 site-keywords: thennarasu, thennarasug, thennarasu gopalsamy, dino, sk, thennarasu.com
 # URL for the Image of custom Favicon
 favicon-url: 
 
 # URL of the Image of Custom Hero Image (i.e., the image in the background of the very first section of the Homepage)
-heroimage: /WhatATheme/assets/images/pexels-luis-gomes-546819.jpg
+heroimage: /thennarasug.github.io/assets/images/pexels-luis-gomes-546819.jpg
 #https://images.pexels.com/photos/220444/pexels-photo-220444.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940
 
 # Social Media and Contact
@@ -39,7 +39,7 @@ disqus-shortname: testtesttestdisqus1234qwer
 # Name of the Author
 author-name: thennarasu
 # URL for the Image of the Author
-author-image: /WhatATheme/assets/images/sk.png
+author-image: /thennarasug.github.io/assets/images/sk.png
 # 60 Words About the Author
 author-about: 
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
